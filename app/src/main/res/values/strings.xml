@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Counter App</string>
+    <string name="name">Name</string>
+    <string name="button">Send</string>
+    <string name="clear">Clear</string>
+    <string name="view">View</string>
+</resources>
